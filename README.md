@@ -15,7 +15,7 @@
 
 ## <a id="-project-overview"></a>📌 Project Overview
 
-This project focuses on exploring, analyzing, and deriving actionable insights from the global COVID-19 dataset using **SQL**. **While the COVID-19 dataset is a ubiquitous and heavily utilized staple in data portfolios, its sheer volume and complexity make it an ideal canvas to demonstrate advanced technical proficiency.** The primary objective here is not merely to uncover pandemic statistics, but to prove a deep, practical mastery of SQL and relational database management.
+This project focuses on exploring, analyzing, and deriving actionable insights from the global COVID-19 dataset using **SQL**. **Although COVID-19 data is widely used in data projects, the main goal of this project was to practice and demonstrate my SQL skills through real data.** The primary objective here is not merely to uncover pandemic statistics, but to prove a deep, practical mastery of SQL and relational database management.
 
 Beyond simply writing queries, this project was meticulously designed to simulate a real-world data engineering and analysis workflow. It covers the entire data lifecycle: provisioning cloud infrastructure, establishing secure database connections, architecting the data schema, performing rigorous logical data validation (correcting cumulative data anomalies), and ultimately deploying advanced SQL techniques, such as CTEs, Temp Tables, and complex Joins-to extract reliable, complex insights.
 

@@ -1,4 +1,4 @@
-# COVID-19 SQL Data Exploration & Analysis Project
+# COVID19-SQL-Analysis
 
 ## 📚 Table of Contents
 * [📌 Project Overview](#-project-overview)

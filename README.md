@@ -144,7 +144,7 @@ Looking at the raw volume of fatalities, the absolute impact was heavily concent
 **5. Vaccination Campaign Leaders**
 Using advanced queries to track vaccination progress, the data highlighted nations leading the global immunization effort:
 
-* **Gibraltar (Europe)** reached a vaccination percentage of **208.76%**, while **Seychelles (Africa)** reached **128.98%**, and **Israel (Asia)** reached **121.28%**.
+* **Gibraltar (Europe)** reached a vaccination percentage of **208.76%**, while **Seychelles (Africa)** reached **128.98%**, and **Palestine (Asia)** reached **121.28%**.
 * *Analytical Note: Percentages exceeding 100% in the dataset indicate the administration of multiple doses (e.g., two-dose regimens or boosters) relative to the total population size.*
 
 ---
